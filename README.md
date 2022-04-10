@@ -1,2 +1,6 @@
 # Java_Study
-recording a Java study
+## 2022년
+---
+### 4월
+* 10일 ~ 16일
+HashMap
