@@ -18,3 +18,5 @@ Enum은 서로 관련이 있는 여러 개의 상수 집합을 정의할 때 사
 ### 5. 조건문
 if, for, for each, switch case
 ---
+### 6. 객체지향(Object Oriented)
+Class, Method, Call by value, 생성자(Constructor), Inheritance
