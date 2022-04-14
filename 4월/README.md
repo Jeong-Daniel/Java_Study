@@ -20,3 +20,6 @@ if, for, for each, switch case
 ---
 ### 6. 객체지향(Object Oriented)
 Class, Method, Call by value, 생성자(Constructor), Inheritance
+---
+### 7. 인터페이스(Interface)
+---
