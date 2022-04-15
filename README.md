@@ -4,4 +4,4 @@
 ### 4월
 * 10일 ~ 16일  
 Hash, Set, Enum, 형변환(final), 조건/제어문  
-객체지향(Object Oriented) : Class, Method, Call by value, 생성자(Constructor), 상속(Inheritance), 인터페이스(Interface)
+객체지향(Object Oriented) : Class, Method, Call by value, 생성자(Constructor), 상속(Inheritance), 인터페이스(Interface), 다형성(Polymorphism), 추상클래스(Abstract Class)
